@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	figure.NewColorFigure("antarupa", "", "blue", true).Print()
+	figure.NewColorFigure("anantarupa", "", "blue", true).Print()
 
 	app := application.NewApp()
 
